@@ -1,0 +1,8 @@
+*.rulate.ru
+ad.admitad.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+plati.market
+plati.ru
+s.click.aliexpress.com
