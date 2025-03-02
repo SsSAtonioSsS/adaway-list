@@ -19,3 +19,4 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 ttnet.yandex.com.tr
 0.0.0.0 zen-test.yandex.ru
+0.0.0.0 yandex.ru
